@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "OrderGoAdmin"
+    }
+  },
+  "defaultProject": "OrderGoAdmin",
+  "cli": {
+    "analytics": "000aea26-ffbd-4116-94e3-9a53c567b184"
+  }
 }
